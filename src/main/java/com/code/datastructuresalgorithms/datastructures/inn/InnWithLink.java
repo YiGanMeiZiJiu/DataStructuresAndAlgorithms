@@ -22,7 +22,7 @@ public class InnWithLink<T> {
     private int number;
 
     /**
-     * 压栈1
+     * 压栈2
      * @param t
      */
     public void push(T t) {
